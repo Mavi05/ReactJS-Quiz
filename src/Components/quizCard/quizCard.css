@@ -1,0 +1,79 @@
+.ques_cont {
+	width: 75%;
+	box-shadow:0px 5px 5px -3px rgba(0,0,0,0.2), 0px 8px 10px 1px rgba(0,0,0,0.14), 0px 3px 14px 2px rgba(0,0,0,0.12);
+	border-radius: 10px;
+	margin-top: 50px;
+	margin-left: 15%;
+}
+
+.ques_index {
+	padding: 10px 0px 0px 20px;
+	font-size: 35px;
+	margin:0;
+}
+
+.ques {
+	padding: 15px 0px 0px 20px;
+	font-size: 25px;
+	margin:0;
+}
+
+.form {
+	padding: 35px 0px 25px 25px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+
+.test {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.radio {
+	padding: 25px 25px 25px 25px;
+	margin:25px 25px;
+	width: auto;
+	height: auto;
+	border-radius: 10px;
+	box-shadow:0px 5px 5px -3px rgba(0,0,0,0.2), 0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+
+.submit_btn {
+	margin: 50px 0px 0px 25px;
+	width: 150px;
+	height: 50px;
+	border-radius: 10px;
+	background-color: green;
+	border-style: none;
+	color: white;
+	font-size: 18px;
+	box-shadow:0px 5px 5px -3px rgba(0,0,0,0.2), 0px 8px 10px 1px rgba(0,0,0,0.14), 0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+
+.result {
+	display: flex;
+	text-align: center;
+	flex-direction: column;
+	width: 75%;
+	margin-left: 14%;
+}
+
+.title {
+	font-size: 50px;
+}
+
+.score {
+	font-size: 40px;
+}
+
+.rank {
+	font-size: 30px;
+	box-shadow:0px 5px 5px -3px rgba(0,0,0,0.2), 0px 8px 10px 1px rgba(0,0,0,0.14), 0px 3px 14px 2px rgba(0,0,0,0.12);
+	background-color: tomato;
+	border-radius: 10px;
+	width: 800px;
+	height: 50px;
+	margin-left: 22%;
+}
