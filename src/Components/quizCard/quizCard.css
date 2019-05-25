@@ -77,3 +77,51 @@
 	height: 50px;
 	margin-left: 22%;
 }
+
+@media screen and (max-width: 1200px) {
+
+	.ques_cont {
+	width: 90%;
+	margin-left: 5%;
+	}
+
+	.ques_index {
+	font-size: 30px;
+	}
+
+	.ques {
+	font-size: 20px;
+	}
+
+	.radio {
+	padding: 15px 15px 15px 15px;
+	margin: 15px 15px 15px 0px;
+	min-width: 250px;
+	height: auto;
+	}
+
+	.form {
+	margin-bottom: 30px;
+	}
+
+	.result {
+	margin-left: 14%;
+	}
+
+	.title {
+		font-size: 40px;
+	}
+
+	.score {
+		font-size: 30px;
+	}
+
+	.rank {
+		font-size: 30px;
+		padding-top: 10px;
+		width: 300px;
+		height: 100px;
+		margin-left: 0%;
+	}
+
+}
