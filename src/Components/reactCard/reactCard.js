@@ -4,6 +4,8 @@ import './reactCard.css';
 
 class reactCard extends Component {
 
+  //React Header displayed at the top of each page
+
   render() {
     return (
       <div>

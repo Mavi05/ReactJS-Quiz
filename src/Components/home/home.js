@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
-import Home_Card from '../homeCard/homeCard';
-import React_Card from '../reactCard/reactCard';
+import Home_Card from '../homeCard/homeCard';  //importing Difficulty Cards
+import React_Card from '../reactCard/reactCard'; //importing React Header Component
 import './home.css'
 
 class home extends Component {

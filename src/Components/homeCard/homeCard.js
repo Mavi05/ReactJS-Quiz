@@ -3,6 +3,8 @@ import './homeCard.css'
 
 class Home_Card extends Component {
 
+  //Template of Difficulty Selection Card Displayed oh home page
+
   render() {
     return (
       <div className="diff_cont">
