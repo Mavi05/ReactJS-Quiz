@@ -3,7 +3,7 @@ A simple quiz designed in ReactJS.
 
 ### Install Dependencies
 ```
-npm install'
+npm install
 ```
 
 ### Starting the Server
